@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#define irPin 2
 /**
  * @file main.cpp
  * @brief Embedded Obstacle Detection System using IR Sensor
